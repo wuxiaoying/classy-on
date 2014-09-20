@@ -9,7 +9,7 @@
     "devDependencies": {
         "coffee-script": "^1.7.1",
         "karma": "^0.12.17",
-        "karma-jasmine": "^0.1.5"
+        "karma-jasmine": "^0.1.5",
         "karma-chrome-launcher": "0.1.4"
     }
 }
