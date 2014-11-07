@@ -1,4 +1,4 @@
-﻿on_module = angular.module 'classy-on', ['classy-core']
+﻿on_module = angular.module 'classy-on', ['classy.core']
 
 on_module.classy.plugin.controller
     name: 'on'
